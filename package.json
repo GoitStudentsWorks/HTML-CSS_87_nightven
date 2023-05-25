@@ -1,11 +1,11 @@
 {
-  "name": "Work-flou1",
+  "name": "HTML-CSS_87_nightven",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Work-flou1/",
+    "build": "vite build --base=/HTML-CSS_87_nightven/",
     "preview": "vite preview"
   },
   "devDependencies": {
